@@ -1,6 +1,5 @@
 /**
  * Name: Osman Selim Yuksel
- * Student ID: 2021400105
  * Date: 08.05.2023 (DD.MM.YYYY)
  * The Label class represents the labels of the matrix which are letters.
  * It contains the matrix of labels, matrix of heights, inner and outer sizes and the score list.
