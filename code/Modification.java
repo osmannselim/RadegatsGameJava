@@ -1,6 +1,5 @@
 /**
  * Name: Osman Selim Yuksel
- * Student ID: 2021400105
  * Date: 08.05.2023 (DD.MM.YYYY)
  * The Modification class contains 2 static methods to check whether a modification is valid or not
  * and to check whether the input is in correct format or not
