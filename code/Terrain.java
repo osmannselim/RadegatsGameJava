@@ -1,6 +1,5 @@
 /**
  * Name: Osman Selim Yuksel
- * Student ID: 2021400105
  * Date: 08.05.2023 (DD.MM.YYYY)
  * The Terrain class represents the terrain of the game.
  * It contains the matrix, visited list, height list and the inner and outer sizes.
