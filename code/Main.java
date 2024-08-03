@@ -1,6 +1,5 @@
 /**
  * Name: Osman Selim Yuksel
- * Student ID: 2021400105
  * Date: 08.05.2023 (DD.MM.YYYY)
  * This class's function is to read the input file, call printMatrix() method, create the terrain and label objects and run the program
  * This program takes a matrix from a file and modifies it according to the user input.
